@@ -97,6 +97,12 @@ p{
   border:solid #f287c8 3px;
   overflow: visible;
 }
+#article h1{
+  background-color: yellow;
+}
+#article p{
+  background-color: #f287c8;
+}
 #Ima{
   display: block;
   margin-left: auto;
