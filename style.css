@@ -45,7 +45,7 @@ footer li{
   text-align:center;
 }
 .top li{
-  width:60px;
+  width:2.8em;
   padding: 0.4em 0.8em;
   margin: 0.8em;
   border: 0.2em dashed #fffdac;
@@ -96,12 +96,6 @@ p{
   margin-left: 20%;
   border:solid #f287c8 3px;
   overflow: visible;
-}
-#article h1{
-  background-color: yellow;
-}
-#article p{
-  background-color: #f287c8;
 }
 #Ima{
   display: block;
