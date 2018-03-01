@@ -12,7 +12,7 @@ html{
   display: inline-block;
   height: auto;
   width: 100%;
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   background-color: #be0627;
@@ -120,7 +120,6 @@ p{
   text-align: left;
   width: 60%;
   margin-left: 20%;
-  border:solid #f287c8 3px;
 }
 #Ima{
   display: block;
@@ -147,5 +146,15 @@ p{
 
 @media screen and (max-width:752px) {
   header{
-      margin-top: 10%;
+      margin-bottom: 10%;
   }
+  article{
+    margin-top: 30%;
+  }
+@media screen and (min-width:0px) {
+    header{
+        margin-bottom: 10%;
+    }
+    article{
+      margin-top: 30%;
+    }
